@@ -1,3 +1,6 @@
 [submodule "OnSSET-CM"]
 	path = OnSSET-CM
 	url = https://github.com/camiloramirezgo/OnSSET-Critical-Minerals-Model
+[submodule "OSeMOSYS-CM"]
+	path = OSeMOSYS-CM
+	url = https://github.com/SimoneOseiOwusu/osemosys-global-CM-workflow
