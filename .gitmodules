@@ -1,0 +1,3 @@
+[submodule "OnSSET-CM"]
+	path = OnSSET-CM
+	url = https://github.com/camiloramirezgo/OnSSET-Critical-Minerals-Model
